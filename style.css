@@ -1,0 +1,68 @@
+.titleAndSubtitle {
+    text-align: center;
+    background-image: url('.\\FoxLogoFinal.PNG');
+}
+body {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff6600 100%);
+}
+#title {
+    font-size: 400%;
+}
+#author {
+    font-size: 150%
+}
+mark {
+    background-color: white;
+}
+.line {
+    background-color: black;
+    height: 5px;
+}
+p {
+    text-indent: 50px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+#table {
+    width: 100%;
+    background-color: lime;
+}
+caption {
+    font-size: 150%;
+    font-weight: bold;
+}
+.b {    
+    background: linear-gradient(to bottom, #33ccff 0%, #ff6600 100%);
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+.b2 {
+    background: red;
+}
+.b3 {
+    background: orange;
+}
+.b4 {
+    background: yellow;
+}
+.b5 {
+    background: green;
+}
+.b6 {
+    background: blue;
+}
+.b7 {
+    background: purple;
+}
+.finalButtons {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff6600 100%);
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
